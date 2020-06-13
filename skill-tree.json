@@ -39,7 +39,12 @@
                         { "name": "GDB" }
                     ]
                 },
-                { "name": "ASM" }
+                { 
+                    "name": "ASM" 
+                    "children" : [
+                    {   "name": "MyFirstNew"}
+                    ]
+                }
             ]
             
         }
