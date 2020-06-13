@@ -42,11 +42,12 @@
                 { 
                     "name": "ASM" 
                     "children" : [
-                    {   "name": "MyFirstNew"}
+                        { "name": "Radare2" },
+                        { "name": "GDB" }
                     ]
                 }
             ]
-           ] 
+           
         }
     ]
 }
