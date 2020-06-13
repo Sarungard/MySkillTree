@@ -39,11 +39,9 @@
                         { "name": "GDB" }
                     ]
                 },
-                { 
-                    "name": "ASM" 
-                }
+                { "name": "VmiMas" }
             ]
-           
+            
         }
     ]
 }
