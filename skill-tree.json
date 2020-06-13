@@ -41,9 +41,9 @@
                 },
                 { 
                     "name": "ASM" 
-                    "children" : [
-                        { "name": "Radare2" },
-                        { "name": "GDB" }
+                    "children": [
+                        { "name": "Radare3" },
+                        { "name": "GDB2" }
                     ]
                 }
             ]
